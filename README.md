@@ -1,2 +1,2 @@
 # ReactWebpack
-Demonstartion of React Webpack
+Demonstration of React Webpack
